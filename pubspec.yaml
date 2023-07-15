@@ -1,5 +1,5 @@
-name: flutter_cli
-description: A new Flutter package project.
+name: flutter_cli_plus
+description: flutter_cli helps to install package from cmd.
 version: 1.0.0
 homepage: https://github.com/swarajkumarsingh/flutter_cli
 repository: https://github.com/swarajkumarsingh/flutter_cli

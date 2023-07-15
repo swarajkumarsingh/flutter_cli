@@ -1,6 +1,6 @@
 import 'package:args/command_runner.dart';
 
-import 'package:flutter_cli/src/command/install_command.dart';
+import 'package:flutter_cli_plus/src/command/install_command.dart';
 
 void main(List<String> args) async {
 //   final parser = ArgParser()
