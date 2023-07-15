@@ -1,0 +1,20 @@
+name: flutter_cli
+description: A new Flutter package project.
+version: 1.0.0
+homepage: https://github.com/swarajkumarsingh/flutter_cli
+repository: https://github.com/swarajkumarsingh/flutter_cli
+
+environment:
+  sdk: ">=3.0.3 <4.0.0"
+
+dependencies:
+  args: ^2.4.2
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+executables:
+  flutter_cli: flutter_cli
